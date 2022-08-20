@@ -5,6 +5,7 @@ public class deneme {
 
         System.out.println("branch deneme");
         System.out.println("master deneme");
+        System.out.println("branch 2 deneme");
 
     }
 
