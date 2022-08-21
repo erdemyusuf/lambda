@@ -1,6 +1,6 @@
 package lambda_functional_programming;
 
-public class Courses {
+public class Fp04_Courses {
 
     private String Season;
     private String courseName;
@@ -8,11 +8,11 @@ public class Courses {
     private int numberOfStudents;
 
 
-    public Courses() {
+    public Fp04_Courses() {
     }
 
 
-    public Courses(String season, String courseName, int averageScore, int numberOfStudents) {
+    public Fp04_Courses(String season, String courseName, int averageScore, int numberOfStudents) {
         Season = season;
         this.courseName = courseName;
         this.averageScore = averageScore;

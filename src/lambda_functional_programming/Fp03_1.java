@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Fp_003 {
+public class Fp03_1 {
 
     public static void main(String[] args) {
 

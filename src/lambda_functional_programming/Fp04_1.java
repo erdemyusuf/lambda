@@ -2,7 +2,7 @@ package lambda_functional_programming;
 
 import java.util.stream.IntStream;
 
-public class Fp_004 {
+public class Fp04_1 {
 
     public static void main(String[] args) {
 

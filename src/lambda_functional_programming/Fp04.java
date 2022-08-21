@@ -3,7 +3,7 @@ package lambda_functional_programming;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Fp_04 {
+public class Fp04 {
     public static void main(String[] args) {
 
         List<String> liste = new ArrayList<>();

@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Fp_03 {
+public class Fp03 {
     public static void main(String[] args) {
 
         List<Integer> liste = new ArrayList<>();

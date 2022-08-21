@@ -3,7 +3,7 @@ package lambda_functional_programming;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Fp_02 {
+public class Fp02_1 {
 
     /*
 
