@@ -3,7 +3,7 @@ package lambda_functional_programming;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Fp_01 {
+public class Fp01 {
 
     /*
 1) Lambda (Functional Programming) Java 8 ile kullanılmaya başlanmıştır.
