@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Fp05 {
+public class Fp_05 {
 
     public static void main(String[] args) {
         Courses courseTurkishDay = new Courses("Summer", "Turkish Day", 97, 128);
