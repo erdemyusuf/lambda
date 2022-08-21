@@ -18,6 +18,7 @@ public class Fp04 {
         liste.add("Tucker");
         liste.add("Benjamin");
         System.out.println(liste);
+
         System.out.println("uzunlugu12denAzMi(liste) = " + uzunlugu12denAzMi(liste));
         System.out.println("xIleBaslamiyorMu(liste) = " + xIleBaslamiyorMu(liste));
         System.out.println("rIleBitiyorMu(liste) = " + rIleBitiyorMu(liste));

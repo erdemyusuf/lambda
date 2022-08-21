@@ -11,7 +11,7 @@ public class Fp04_1 {
         System.out.println("get2den11eCarpim() = " + get2den11eCarpim());
         System.out.println("faktoriyelHesapla(x,6) = " + faktoriyelHesapla(6));
 
-
+        //  return type VOID olmayan metotlarda metot call yapariz.
     }
 
     //1) 7'den 100'e kadar integer değerlerinin toplamını bulan bir method oluşturun.
@@ -64,7 +64,7 @@ public class Fp04_1 {
     public static int verilenIkiSayiArasindakiCiftSayilarinToplamini(int x, int y){
         int z = 0;
         if(x>y){
-            z = x;
+            z = x;  // SWAP yontemi ile x<y yapip ramge y oyle gonderdik
             x = y;
             y = z;
         }
